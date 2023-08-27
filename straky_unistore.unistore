@@ -31,15 +31,15 @@
 				{
 					"type": "downloadFile",
 					"file": "https://github.com/Str4ky/unistore/raw/main/apps/FBI%20Dark%20Theme.cia",
-					"output": "sdmc:/FBI%20Dark%20Theme.cia"
+					"output": "sdmc:/FBI.cia"
 				},
 				{
 					"type": "installCia",
-					"file": "/FBI%20Dark%20Theme.cia"
+					"file": "/FBI.cia"
 				},
 				{
 					"type": "deleteFile",
-					"type" "sdmc:/FBI%20Dark%20Theme.cia"
+					"type" "sdmc:/FBI.cia"
 				}
 			]
 		},
