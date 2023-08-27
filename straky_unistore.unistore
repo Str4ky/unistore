@@ -8,7 +8,7 @@
 		"sheet": "icons.t3x",
     	"sheetURL": "https://raw.githubusercontent.com/Str4ky/unistore/main/icons.unistore",
 		"version": 3,
-		"revision": 6
+		"revision": 7
 	},
 	"storeContent": [
 		{
@@ -51,7 +51,7 @@
 				"last_updated": "2023-08-02",
 				"version": "v1.0.0"
 			},
-			"sShop": [
+			"hShop": [
 				{
 					"type": "installCia",
 					"file": "https://github.com/Str4ky/unistore/raw/main/apps/hShop.cia",
