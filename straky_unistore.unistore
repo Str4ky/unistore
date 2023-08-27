@@ -36,9 +36,9 @@
 		},
 				{
 			"info": {
-				"title": "HShop custom banner",
+				"title": "hShop custom banner",
 				"author": "Straky",
-				"description": "A custom banner for the HShop app",
+				"description": "A custom banner for the hShop app",
 				"category": [
 					"3DS"
 				],
@@ -53,7 +53,7 @@
 			"HShop": [
 				{
 					"type": "installCia",
-					"file": "https://github.com/Str4ky/unistore/raw/main/apps/HShop.cia"
+					"file": "https://github.com/Str4ky/unistore/raw/main/apps/hShop.cia"
 				}
 			]
 		}
