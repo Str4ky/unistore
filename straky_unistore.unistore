@@ -8,7 +8,7 @@
 		"sheet": "icons.t3x",
     	"sheetURL": "https://raw.githubusercontent.com/Str4ky/unistore/main/icons.unistore",
 		"version": 3,
-		"revision": 9
+		"revision": 10
 	},
 	"storeContent": [
 		{
@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "installCia",
-					"file": "sdmc:/FBI%20Dark%20Theme.cia"
+					"file": "/FBI%20Dark%20Theme.cia"
 				},
 				{
 					"type": "deleteFile",
@@ -67,7 +67,7 @@
 				},
 				{
 					"type": "installCia",
-					"file": "sdmc:/hShop.cia"
+					"file": "/hShop.cia"
 				},
 				{
 					"type": "deleteFile",
