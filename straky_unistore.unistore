@@ -1,0 +1,134 @@
+{
+	"storeInfo": {
+		"title": "Straky's Unistore",
+		"author": "Straky",
+		"description": "You can find here my custom stuff for the Nintendo 3DS",
+		"url": "https://raw.githubusercontent.com/Str4ky/unistore/main/straky.unistore",
+		"file": "straky.unistore",
+		"sheet": "icons.t3x",
+    	"sheetURL": "https://raw.githubusercontent.com/Str4ky/unistore/main/icons.unistore",
+		"version": 3,
+		"revision": 4
+	},
+	"storeContent": [
+		{
+			"info": {
+				"title": "Minecraft Theme",
+				"author": "Str4ky",
+				"description": "A Minecraft Theme for the Launcher",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 0,
+				"sheet_index": 0,
+				"last_updated": "2023-08-25",
+				"version": "v1.0.0"
+			},
+			"Download Theme": [
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610791274844211/barBorder.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/barBorder.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610797406929007/barFill.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/barFill.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610806516957204/bottomBackground.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/bottomBackground.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610812162482328/selTinyButtonBackground.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/selTinyButtonBackground.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610818797879386/tinyButtonBackground.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/tinyButtonBackground.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610827450728508/topBackground.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/topBackground.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610832701997087/topInfoBackground.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/topInfoBackground.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610841107382413/topInfoBackgroundUpd.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/topInfoBackgroundUpd.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610849886048266/betaMode.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/textSprites/betaMode.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610857385480303/changelogText.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/textSprites/changelogText.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610868584267838/creditsText.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/textSprites/creditsText.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610876184334466/installerText.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/textSprites/installerText.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610883042017401/launchControlsSprite.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/textSprites/launchControlsSprite.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610892223369297/launcherText.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/textSprites/launcherText.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610900645515316/launchText.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/textSprites/launchText.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610909432586300/pressBExit.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/textSprites/pressBExit.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610917817008400/updateControlsText.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/textSprites/updateControlsText.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610926062993438/updateText.png",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sprites/textSprites/updateText.png"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610940558520444/beepboopclick.bcwav",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sound/beepboopclick.bcwav"
+				},
+				{
+					"type": "downloadFile",
+					"file": "https://cdn.discordapp.com/attachments/1121936464771567717/1144610953321787482/lag.bcwav",
+					"output": "sdmc:/CTGP-7/MyStuff/LauncherFS/sound/lag.bcwav"
+				}
+			]
+		}
+	]
+}
