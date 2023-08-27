@@ -39,11 +39,11 @@
 				},
 				{
 					"type": "deleteFile",
-					"type" "sdmc:/FBI.cia"
+					"file" "sdmc:/FBI.cia"
 				}
 			]
 		},
-				{
+		{
 			"info": {
 				"title": "hShop custom banner",
 				"author": "Straky",
@@ -71,7 +71,7 @@
 				},
 				{
 					"type": "deleteFile",
-					"type" "sdmc:/hShop.cia"
+					"file" "sdmc:/hShop.cia"
 				}
 			]
 		}
