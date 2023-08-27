@@ -8,14 +8,14 @@
 		"sheet": "icons.t3x",
     	"sheetURL": "https://raw.githubusercontent.com/Str4ky/unistore/main/icons.unistore",
 		"version": 3,
-		"revision": 8
+		"revision": 9
 	},
 	"storeContent": [
 		{
 			"info": {
 				"title": "FBI Dark Theme",
 				"author": "Straky",
-				"description": "A Dark Theme variant of the FBI app",
+				"description": "Variant of the FBI app with a dark theme",
 				"category": [
 					"3DS"
 				],
@@ -47,7 +47,7 @@
 			"info": {
 				"title": "hShop custom banner",
 				"author": "Straky",
-				"description": "A custom banner for the hShop app",
+				"description": "Variant of the hShop app with a custom banner",
 				"category": [
 					"3DS"
 				],
