@@ -31,11 +31,12 @@
 				{
 					"type": "downloadFile",
 					"file": "https://github.com/Str4ky/unistore/raw/main/apps/FBI%20Dark%20Theme.cia",
+					"message": "Downloading FBI.cia...",
 					"output": "sdmc:/FBI.cia"
 				},
 				{
 					"type": "installCia",
-					"file": "/FBI.cia"
+					"file": "sdmc:/FBI.cia"
 				},
 				{
 					"type": "deleteFile",
@@ -63,11 +64,12 @@
 				{
 					"type": "downloadFile",
 					"file": "https://github.com/Str4ky/unistore/raw/main/apps/hShop.cia",
+					"message": "Downloading hShop.cia...",
 					"output": "sdmc:/hShop.cia"
 				},
 				{
 					"type": "installCia",
-					"file": "/hShop.cia"
+					"file": "sdmc:/hShop.cia"
 				},
 				{
 					"type": "deleteFile",
