@@ -8,7 +8,7 @@
 		"sheet": "icons.t3x",
     	"sheetURL": "https://raw.githubusercontent.com/Str4ky/unistore/main/icons.unistore",
 		"version": 3,
-		"revision": 10
+		"revision": 11
 	},
 	"storeContent": [
 		{
@@ -21,6 +21,14 @@
 				],
 				"console": [
 					"3DS"
+				],
+				"screenshots": [
+		            {
+						"url": "https://github.com/Str4ky/unistore/raw/main/imgs/FBI/1.png","description": "Main interface"
+		            },
+					{
+						"url": "https://github.com/Str4ky/unistore/raw/main/imgs/FBI/2.png","description": "Installing interface"
+		    		}
 				],
 				"icon_index": 0,
 				"sheet_index": 0,
@@ -54,6 +62,11 @@
 				],
 				"console": [
 					"3DS"
+				],
+				"screenshots": [
+		            {
+						"url": "https://github.com/Str4ky/unistore/raw/main/imgs/hShop/1.png","description": "3D banner"
+		            }
 				],
 				"icon_index": 1,
 				"sheet_index": 0,
