@@ -69,9 +69,9 @@
 		            }
 				],
 				"icon_index": 1,
-				"sheet_index": 1,
-				"last_updated": "2023-08-02",
-				"version": "v1.0.0"
+				"sheet_index": 0,
+				"last_updated": "2024-09-21",
+				"version": "v1.1.0"
 			},
 			"hShop.cia": [
 				{
@@ -90,7 +90,7 @@
 				}
 			]
 		},
-				{
+		{
 			"info": {
 				"title": "CTGP-7 Custom Characters",
 				"author": "Straky",
@@ -113,7 +113,7 @@
 					}
 				],
 				"icon_index": 2,
-				"sheet_index": 2,
+				"sheet_index": 0,
 				"last_updated": "2025-23-02",
 				"version": "v1.0.0"
 			},
