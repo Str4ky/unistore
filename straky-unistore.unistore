@@ -8,7 +8,7 @@
 		"sheet": "straky-unistore.t3x",
     	"sheetURL": "https://raw.githubusercontent.com/Str4ky/unistore/main/straky-unistore.t3x",
 		"version": 3,
-		"revision": 13
+		"revision": 14
 	},
 	"storeContent": [
 		{
@@ -54,44 +54,6 @@
 		},
 		{
 			"info": {
-				"title": "hShop custom banner",
-				"author": "Straky",
-				"description": "Variant of the hShop app with a custom banner",
-				"category": [
-					"3DS"
-				],
-				"console": [
-					"3DS"
-				],
-				"screenshots": [
-		            {
-						"url": "https://github.com/Str4ky/unistore/raw/main/imgs/hShop/1.png","description": "3D banner"
-		            }
-				],
-				"icon_index": 1,
-				"sheet_index": 0,
-				"last_updated": "2024-09-21",
-				"version": "v1.1.0"
-			},
-			"hShop.cia": [
-				{
-					"type": "downloadFile",
-					"file": "https://github.com/Str4ky/unistore/raw/main/apps/hShop.cia",
-					"message": "Downloading hShop.cia...",
-					"output": "sdmc:/hShop.cia"
-				},
-				{
-					"type": "installCia",
-					"file": "sdmc:/hShop.cia"
-				},
-				{
-					"type": "deleteFile",
-					"file": "sdmc:/hShop.cia"
-				}
-			]
-		},
-		{
-			"info": {
 				"title": "CTGP-7 Custom Characters",
 				"author": "Straky",
 				"description": "All of my custom characters",
@@ -112,7 +74,7 @@
 						"url": "https://github.com/Str4ky/unistore/raw/main/imgs/CTGP-7/3.png", "description": "Trophy"
 					}
 				],
-				"icon_index": 2,
+				"icon_index": 1,
 				"sheet_index": 0,
 				"last_updated": "2025-23-02",
 				"version": "v1.0.0"
