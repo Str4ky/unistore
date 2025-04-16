@@ -8,7 +8,7 @@
 		"sheet": "straky-unistore.t3x",
     	"sheetURL": "https://raw.githubusercontent.com/Str4ky/unistore/main/straky-unistore.t3x",
 		"version": 3,
-		"revision": 15
+		"revision": 16
 	},
 	"storeContent": [
 		{
@@ -77,7 +77,7 @@
 				"icon_index": 1,
 				"sheet_index": 0,
 				"last_updated": "2025-23-02",
-				"version": "v1.1.0"
+				"version": "v1.2.0"
 			},
 			"Characters.zip": [
 				{
